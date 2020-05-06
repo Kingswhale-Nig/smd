@@ -1,10 +1,10 @@
-# smd
+# SM Dynamics
 
-SM Dynamics Reporting App
+SM Dynamics Activities Reporting App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application development.
 
 A few resources to get you started if this is your first Flutter project:
 
