@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827008330125",
+    "firebase_url": "https://smdynamics.firebaseio.com",
+    "project_id": "smdynamics",
+    "storage_bucket": "smdynamics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827008330125:android:796f6a69a4cb40f2ef35c4",
+        "android_client_info": {
+          "package_name": "com.kingswhale.smd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827008330125-k73ubg4q14e41u4gne79f41chdpluviu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrc0r0n7YvYHEyzgNVUqvM40VUcW4NbCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827008330125-k73ubg4q14e41u4gne79f41chdpluviu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "827008330125-shnebgqvnob80gk8mpl6v2hme6sbjqum.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kingswhale.smd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
